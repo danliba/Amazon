@@ -1,0 +1,32 @@
+Downloading year 2022...
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 18287599
+* JobName          : V_donwload                                        
+* Account          : bk1450
+* User             : b383184 (202374), bk1450 (202070)                 
+* Partition        : compute
+* QOS              : normal
+* Nodelist         : l30681 (1)                                                
+* Submit date      : 2025-07-11T12:20:47
+* Start time       : 2025-07-11T12:21:01
+* End time         : 2025-07-11T12:21:04
+* Elapsed time     : 00:00:03 (Timelimit=08:00:00)                     
+* Command          : /work/bk1450/b383184/Amazon/Atlantic/data/V_cmems.sh
+* WorkDir          : /work/bk1450/b383184/Amazon/Atlantic/data
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch          0.00083
+* extern | extern         0.00083                2160K (0)
+* ------------------------------------------------------------------------------
+

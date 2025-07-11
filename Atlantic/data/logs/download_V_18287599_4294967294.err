@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/work/bk1450/b383184/Amazon/Atlantic/data/V_hpc.py", line 3, in <module>
+    import copernicusmarine
+ModuleNotFoundError: No module named 'copernicusmarine'
