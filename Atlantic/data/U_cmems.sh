@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=V_donwload
+#SBATCH --job-name=U_donwload
 #SBATCH --ntasks=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --nodes=1
@@ -8,8 +8,8 @@
 #SBATCH --time=08:00:00
 #SBATCH --partition=compute
 #SBATCH --account=bk1450
-#SBATCH --output=logs/download_V_%A_%a.out
-#SBATCH --error=logs/download_V_%A_%a.err
+#SBATCH --output=logs/download_U_%A_%a.out
+#SBATCH --error=logs/download_U_%A_%a.err
 
 # Define years to download
 YEARS=(2022 2023 2024 2025)
@@ -23,4 +23,4 @@ conda activate /work/bk1450/b383184/conda/envs/parcels_3.1.2
 # source /path/to/your/envs/bin/activate
 
 echo "Downloading year $YEAR..."
-python3 V_hpc.py $YEAR
+python3 U_hpc.py $YEAR

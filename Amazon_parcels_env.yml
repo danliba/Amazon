@@ -56,3 +56,4 @@ dependencies:
     - git+https://github.com/willirath/hextraj.git@2023.2.20.1
     - git+https://git.geomar.de/python/xorca_brokenline.git@f1bbcb1f791ee4d428d4fc6fe440263455389676
     - git+https://git.geomar.de/python/xorca_lonlat2ij.git@d9ab6ab959e3079183e9d7f729b5e98b2f5d9f73
+    - copernicusmarine
