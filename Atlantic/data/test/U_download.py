@@ -13,8 +13,10 @@
 #   maximum_depth=5727.9169921875,
 # )
 
-import copernicusmarine
 from datetime import datetime
+import copernicusmarine
+# import os
+import calendar
 
 # Your credentials (consider using environment variables instead for security)
 username = "dbarreto"
