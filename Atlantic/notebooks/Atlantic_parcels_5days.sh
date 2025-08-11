@@ -61,24 +61,3 @@ printf "%s\n" "${release_dates[@]}" | xargs -n1 -P6 -I{} srun --export=ALL --nta
 
 # Wait for all background jobs to complete
 wait
-
-
-#for date in "${release_dates[@]}"; do 
-
-#srun --export=ALL --ntasks 1 --nodes 1 --exclusive -c 32 /bin/bash -c -l "seq -w 1 12 | xargs -n1 -P6 -I{} papermill Atlantic_parcels_2.ipynb #executed/Atlantic_parcels_2.${year}-{}-01.ipynb -k python -p start_time $release_datesT00:00:00 -p num_particles $num_particles -p run_time_days $run_time_days" & 
-#done
-#wait 
-
-# Generate all combinations and store in release_dates
-# for year in "${years[@]}"; do
-#   for month in "${months[@]}"; do
-#     # Pad month with leading zero if needed
-#     printf -v padded_month "%02d" "$month"
-#     for day in "${days[@]}"; do
-#       # Pad day with leading zero if needed
-#       printf -v padded_day "%02d" "$day"
-#       release_dates+=("$year-$padded_month-$padded_day")
-#     done
-#   done
-# done
-# ----
