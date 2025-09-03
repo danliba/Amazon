@@ -16,7 +16,7 @@ source /sw/spack-levante/mambaforge-22.9.0-2-Linux-x86_64-kptncg/etc/profile.d/c
 conda activate /work/bk1450/b383184/conda/envs/parcels_3.1.2
 
 # run 185 day batches on each of the eight tasks
-num_particles=10000
+num_particles=100000 #100_000 particles
 run_time_days=185
 ref_date="2022-01-01"
 
