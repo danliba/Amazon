@@ -1,8 +1,8 @@
 #!/bin/bash
-#SBATCH --job-name=Atlantic_parcels_2
-#SBATCH --ntasks=23
+#SBATCH --job-name=Atlantic_parcels_100K
+#SBATCH --ntasks=46
 #SBATCH --ntasks-per-node=1
-#SBATCH --nodes=23
+#SBATCH --nodes=46
 #SBATCH --mem=250G
 #SBATCH --exclusive
 #SBATCH --time=08:00:00
@@ -16,7 +16,7 @@ source /sw/spack-levante/mambaforge-22.9.0-2-Linux-x86_64-kptncg/etc/profile.d/c
 conda activate /work/bk1450/b383184/conda/envs/parcels_3.1.2
 
 # run 185 day batches on each of the eight tasks
-num_particles=10000 #100_000 particles
+num_particles=100000 #100_000 particles
 run_time_days=185
 ref_date="2022-01-01"
 
@@ -32,7 +32,7 @@ for offset in $(seq -w 155 50 1255); do
       offset_end='"$offset_end"'
 
       # Generate decimal day numbers (no -w) to avoid octal issues, pass as strings later
-      seq '"$((10#$offset))"' 5 "$offset_end" | xargs -n1 -P5 -I{} \
+      seq '"$((10#$offset))"' 5 "$offset_end" | xargs -n1 -P1 -I{} \
         papermill Atlantic_parcels_4.ipynb \
           executed/Atlantic_parcels_4.y'"${ref_date}"'-offset-days{}.ipynb \
           -k python \
