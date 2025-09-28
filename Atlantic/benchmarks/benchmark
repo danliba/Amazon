@@ -1,0 +1,71 @@
+#!/bin/bash
+#SBATCH --job-name=parcels_bench2
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=8
+#SBATCH --nodes=1
+#SBATCH --time=08:00:00
+#SBATCH --partition=compute
+#SBATCH --account=bk1450
+#SBATCH --output=logs/bench_p%j.out
+#SBATCH --error=logs/bench_p%j.err
+#SBATCH --mem=0
+
+## Simple Particle loss benchmarking with multiple time_step_minutes, out_put_step_hours and random_seeds
+module load python3/2023.01-gcc-11.2.0
+source /sw/spack-levante/mambaforge-22.9.0-2-Linux-x86_64-kptncg/etc/profile.d/conda.sh
+conda activate /work/bk1450/b383184/conda/envs/parcels_3.1.2
+
+PATHUVW="/work/bk1450/b383184/Amazon/Atlantic/data/reanalysis"
+OUTDIR="/work/bk1450/b383184/Amazon/Atlantic/benchmarks"
+
+mkdir -p "$OUTDIR" logs
+
+num_particles=1000
+run_time_days=30
+MAX_PARALLEL=4  # Conservative: 4 concurrent Parcels runs
+
+seeds=(1234 2345 3456 4567)
+dts=(1 5 10 15 20)
+outs=(1 2 4 6 8 12)
+
+# Function to run one combination
+run_combination() {
+    local seed=$1 dt=$2 out=$3
+    echo "Running seed=$seed dt=${dt}m out=${out}h"
+    python particle_loss_benchmark.py \
+        --pathUVW "$PATHUVW" \
+        --outdir "$OUTDIR" \
+        --num_particles "$num_particles" \
+        --run_time_days "$run_time_days" \
+        --time_step_minutes "$dt" \
+        --out_put_step_hours "$out" \
+        --seed "$seed"
+}
+
+# Export function for parallel execution
+export -f run_combination
+export PATHUVW OUTDIR num_particles run_time_days
+
+# Create job list
+JOBLIST="$OUTDIR/jobs.txt"
+> "$JOBLIST"
+for seed in "${seeds[@]}"; do
+  for dt in "${dts[@]}"; do
+    for out in "${outs[@]}"; do
+      echo "$seed $dt $out" >> "$JOBLIST"
+    done
+  done
+done
+
+# Run jobs in parallel
+cat "$JOBLIST" | xargs -n 3 -P $MAX_PARALLEL -I {} bash -c 'run_combination {}'
+
+# Merge results
+python - <<'PY'
+import glob, pandas as pd, os
+outdir = "/work/bk1450/b383184/Amazon/Atlantic/benchmarks"
+dfs = [pd.read_csv(f) for f in glob.glob(os.path.join(outdir, "summary2_*.csv"))]
+if dfs:
+    pd.concat(dfs, ignore_index=True).to_csv(os.path.join(outdir, "summary2_all.csv"), index=False)
+    print("Wrote summary_all.csv with", len(dfs), "rows")
+PY

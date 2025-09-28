@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 username = "dbarreto"
 password = "DoNuT_120197"
-output_directory = "/work/bk1450/b383184/Amazon/Atlantic/data/tracers/"
+output_directory = "/work/bk1450/b383184/Amazon/Atlantic/data/tracers/ssh"
 
 # ====================================
 def download_month(year, month):
@@ -18,7 +18,7 @@ def download_month(year, month):
         print(f"Downloading: {output_filename} from {start_date} to {end_date}")
 
         copernicusmarine.subset(
-            dataset_id="cmems_mod_glo_phy_anfc_0.083deg_PT1H-m",
+            dataset_id="cmems_mod_glo_phy_anfc_0.083deg_P1D-m", #dataset_id="cmems_mod_glo_phy_anfc_0.083deg_P1D-m",
             variables=["zos"],
             username=username,
             password=password,
