@@ -20,7 +20,7 @@ export NETRC=/home/b/b383184/.netrc
 mkdir -p logs executed
 
 MERCATOR_FOLDER="/work/bk1450/b383184/Amazon/Mercator/data/variables"
-years=(2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011)
+years=(2001 2013 2014)
 
 echo "Starting job with ${SLURM_NTASKS} tasks"
 echo "Years to process: ${years[@]}"
@@ -30,20 +30,12 @@ for i in $(seq 0 $((SLURM_NTASKS-1))); do
   srun --export=ALL --ntasks=1 --nodes=1 --exclusive -c 16 bash -c "
     echo 'Task ${i} starting'
     
-    for idx in {0..10}; do
+    for idx in {0..2}; do
       if (( idx % ${SLURM_NTASKS} == ${i} )); then
         case \$idx in
           0) year=2001 ;;
-          1) year=2002 ;;
-          2) year=2003 ;;
-          3) year=2004 ;;
-          4) year=2005 ;;
-          5) year=2006 ;;
-          6) year=2007 ;;
-          7) year=2008 ;;
-          8) year=2009 ;;  
-          9) year=2010 ;;
-          10) year=2011 ;;
+          1) year=2013 ;;  
+          2) year=2014 ;;
 
         esac
         

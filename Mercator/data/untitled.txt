@@ -1,0 +1,17 @@
+cdo setzlevel,0 -selzlevel,1 W.nc top1.nc   
+
+cdo depthw,0 -depthw,1 
+
+
+cdo expr,'vovecrtz=0' top.nc top0.nc
+
+
+# top level (index 1), set to 0
+cdo -sellevidx,1 W_1993-01c.nc top.nc
+cdo setconst,0 top.nc top0.nc
+
+# remaining levels (2..end)
+cdo -sellevidx,2/-1 W.nc rest.nc
+
+# merge back along levels
+cdo mergelevels top0.nc rest.nc w_out.nc
