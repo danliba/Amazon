@@ -7,3 +7,9 @@
 *zarr
 *.err
 *.out
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.parquet
+*.pkl
