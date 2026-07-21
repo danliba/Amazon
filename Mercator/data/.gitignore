@@ -4,4 +4,8 @@
 .nc
 .zarr
 .parquet
+.tab
+.csv
+
+
 
