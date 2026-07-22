@@ -1,0 +1,758 @@
+[
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-01-10 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-01-10.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-01-10 00:00:00.zarr",
+  "date": "2003-01-10"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-01-15 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-01-15.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-01-15 00:00:00.zarr",
+  "date": "2003-01-15"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-01-20 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-01-20.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-01-20 00:00:00.zarr",
+  "date": "2003-01-20"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-01-25 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-01-25.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-01-25 00:00:00.zarr",
+  "date": "2003-01-25"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-01-30 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-01-30.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-01-30 00:00:00.zarr",
+  "date": "2003-01-30"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-02-04 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-02-04.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-02-04 00:00:00.zarr",
+  "date": "2003-02-04"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-02-09 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-02-09.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-02-09 00:00:00.zarr",
+  "date": "2003-02-09"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-02-14 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-02-14.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-02-14 00:00:00.zarr",
+  "date": "2003-02-14"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-02-19 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-02-19.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-02-19 00:00:00.zarr",
+  "date": "2003-02-19"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-02-24 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-02-24.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-02-24 00:00:00.zarr",
+  "date": "2003-02-24"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-03-01 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-03-01.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-03-01 00:00:00.zarr",
+  "date": "2003-03-01"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-03-06 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-03-06.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-03-06 00:00:00.zarr",
+  "date": "2003-03-06"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-03-11 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-03-11.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-03-11 00:00:00.zarr",
+  "date": "2003-03-11"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-03-16 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-03-16.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-03-16 00:00:00.zarr",
+  "date": "2003-03-16"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-03-21 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-03-21.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-03-21 00:00:00.zarr",
+  "date": "2003-03-21"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-03-26 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-03-26.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-03-26 00:00:00.zarr",
+  "date": "2003-03-26"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-03-31 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-03-31.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-03-31 00:00:00.zarr",
+  "date": "2003-03-31"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-04-05 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-04-05.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-04-05 00:00:00.zarr",
+  "date": "2003-04-05"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-04-10 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-04-10.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-04-10 00:00:00.zarr",
+  "date": "2003-04-10"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-04-15 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-04-15.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-04-15 00:00:00.zarr",
+  "date": "2003-04-15"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-04-20 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-04-20.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-04-20 00:00:00.zarr",
+  "date": "2003-04-20"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-04-25 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-04-25.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-04-25 00:00:00.zarr",
+  "date": "2003-04-25"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-04-30 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-04-30.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-04-30 00:00:00.zarr",
+  "date": "2003-04-30"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-05-05 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-05-05.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-05-05 00:00:00.zarr",
+  "date": "2003-05-05"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-05-10 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-05-10.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-05-10 00:00:00.zarr",
+  "date": "2003-05-10"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-05-15 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-05-15.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-05-15 00:00:00.zarr",
+  "date": "2003-05-15"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-05-20 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-05-20.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-05-20 00:00:00.zarr",
+  "date": "2003-05-20"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-05-25 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-05-25.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-05-25 00:00:00.zarr",
+  "date": "2003-05-25"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-05-30 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-05-30.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-05-30 00:00:00.zarr",
+  "date": "2003-05-30"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-06-04 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-06-04.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-06-04 00:00:00.zarr",
+  "date": "2003-06-04"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-06-09 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-06-09.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-06-09 00:00:00.zarr",
+  "date": "2003-06-09"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-06-14 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-06-14.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-06-14 00:00:00.zarr",
+  "date": "2003-06-14"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-06-19 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-06-19.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-06-19 00:00:00.zarr",
+  "date": "2003-06-19"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-06-24 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-06-24.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-06-24 00:00:00.zarr",
+  "date": "2003-06-24"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-06-29 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-06-29.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-06-29 00:00:00.zarr",
+  "date": "2003-06-29"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-07-04 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-07-04.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-07-04 00:00:00.zarr",
+  "date": "2003-07-04"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-07-09 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-07-09.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-07-09 00:00:00.zarr",
+  "date": "2003-07-09"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-07-14 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-07-14.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-07-14 00:00:00.zarr",
+  "date": "2003-07-14"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-07-19 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-07-19.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-07-19 00:00:00.zarr",
+  "date": "2003-07-19"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-07-24 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-07-24.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-07-24 00:00:00.zarr",
+  "date": "2003-07-24"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-07-29 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-07-29.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-07-29 00:00:00.zarr",
+  "date": "2003-07-29"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-08-03 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-08-03.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-08-03 00:00:00.zarr",
+  "date": "2003-08-03"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-08-08 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-08-08.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-08-08 00:00:00.zarr",
+  "date": "2003-08-08"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-08-13 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-08-13.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-08-13 00:00:00.zarr",
+  "date": "2003-08-13"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-08-18 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-08-18.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-08-18 00:00:00.zarr",
+  "date": "2003-08-18"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-08-23 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-08-23.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-08-23 00:00:00.zarr",
+  "date": "2003-08-23"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-08-28 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-08-28.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-08-28 00:00:00.zarr",
+  "date": "2003-08-28"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-09-02 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-09-02.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-09-02 00:00:00.zarr",
+  "date": "2003-09-02"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-09-07 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-09-07.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-09-07 00:00:00.zarr",
+  "date": "2003-09-07"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-09-12 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-09-12.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-09-12 00:00:00.zarr",
+  "date": "2003-09-12"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-09-17 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-09-17.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-09-17 00:00:00.zarr",
+  "date": "2003-09-17"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-09-22 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-09-22.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-09-22 00:00:00.zarr",
+  "date": "2003-09-22"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-09-27 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-09-27.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-09-27 00:00:00.zarr",
+  "date": "2003-09-27"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-10-02 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-10-02.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-10-02 00:00:00.zarr",
+  "date": "2003-10-02"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-10-07 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-10-07.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-10-07 00:00:00.zarr",
+  "date": "2003-10-07"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-10-12 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-10-12.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-10-12 00:00:00.zarr",
+  "date": "2003-10-12"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-10-17 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-10-17.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-10-17 00:00:00.zarr",
+  "date": "2003-10-17"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-10-22 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-10-22.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-10-22 00:00:00.zarr",
+  "date": "2003-10-22"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-10-27 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-10-27.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-10-27 00:00:00.zarr",
+  "date": "2003-10-27"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-11-01 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-11-01.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-11-01 00:00:00.zarr",
+  "date": "2003-11-01"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-11-06 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-11-06.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-11-06 00:00:00.zarr",
+  "date": "2003-11-06"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-11-11 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-11-11.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-11-11 00:00:00.zarr",
+  "date": "2003-11-11"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-11-16 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-11-16.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-11-16 00:00:00.zarr",
+  "date": "2003-11-16"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-11-21 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-11-21.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-11-21 00:00:00.zarr",
+  "date": "2003-11-21"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-11-26 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-11-26.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-11-26 00:00:00.zarr",
+  "date": "2003-11-26"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-12-01 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-12-01.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-12-01 00:00:00.zarr",
+  "date": "2003-12-01"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-12-06 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-12-06.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-12-06 00:00:00.zarr",
+  "date": "2003-12-06"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-12-11 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-12-11.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-12-11 00:00:00.zarr",
+  "date": "2003-12-11"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-12-16 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-12-16.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-12-16 00:00:00.zarr",
+  "date": "2003-12-16"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-12-21 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-12-21.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-12-21 00:00:00.zarr",
+  "date": "2003-12-21"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-12-26 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-12-26.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-12-26 00:00:00.zarr",
+  "date": "2003-12-26"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2003-12-31 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2003-12-31.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_45678/Parcels_run_45678_2003-12-31 00:00:00.zarr",
+  "date": "2003-12-31"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-04-08 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-04-08.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-04-08 00:00:00.zarr",
+  "date": "2009-04-08"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-04-13 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-04-13.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-04-13 00:00:00.zarr",
+  "date": "2009-04-13"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-04-18 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-04-18.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-04-18 00:00:00.zarr",
+  "date": "2009-04-18"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-04-23 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-04-23.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-04-23 00:00:00.zarr",
+  "date": "2009-04-23"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-04-28 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-04-28.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-04-28 00:00:00.zarr",
+  "date": "2009-04-28"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-05-03 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-05-03.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-05-03 00:00:00.zarr",
+  "date": "2009-05-03"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-05-08 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-05-08.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-05-08 00:00:00.zarr",
+  "date": "2009-05-08"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-05-13 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-05-13.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-05-13 00:00:00.zarr",
+  "date": "2009-05-13"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-05-18 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-05-18.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-05-18 00:00:00.zarr",
+  "date": "2009-05-18"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-05-23 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-05-23.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-05-23 00:00:00.zarr",
+  "date": "2009-05-23"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-05-28 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-05-28.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-05-28 00:00:00.zarr",
+  "date": "2009-05-28"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-06-02 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-06-02.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-06-02 00:00:00.zarr",
+  "date": "2009-06-02"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-06-07 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-06-07.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-06-07 00:00:00.zarr",
+  "date": "2009-06-07"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-06-12 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-06-12.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-06-12 00:00:00.zarr",
+  "date": "2009-06-12"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-06-17 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-06-17.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-06-17 00:00:00.zarr",
+  "date": "2009-06-17"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-06-22 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-06-22.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-06-22 00:00:00.zarr",
+  "date": "2009-06-22"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-06-27 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-06-27.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-06-27 00:00:00.zarr",
+  "date": "2009-06-27"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-07-02 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-07-02.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-07-02 00:00:00.zarr",
+  "date": "2009-07-02"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-07-07 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-07-07.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-07-07 00:00:00.zarr",
+  "date": "2009-07-07"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-07-12 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-07-12.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-07-12 00:00:00.zarr",
+  "date": "2009-07-12"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-07-17 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-07-17.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-07-17 00:00:00.zarr",
+  "date": "2009-07-17"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-07-22 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-07-22.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-07-22 00:00:00.zarr",
+  "date": "2009-07-22"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-07-27 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-07-27.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-07-27 00:00:00.zarr",
+  "date": "2009-07-27"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-08-01 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-08-01.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-08-01 00:00:00.zarr",
+  "date": "2009-08-01"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-08-06 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-08-06.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-08-06 00:00:00.zarr",
+  "date": "2009-08-06"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-08-11 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-08-11.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-08-11 00:00:00.zarr",
+  "date": "2009-08-11"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-08-16 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-08-16.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-08-16 00:00:00.zarr",
+  "date": "2009-08-16"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-08-21 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-08-21.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-08-21 00:00:00.zarr",
+  "date": "2009-08-21"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-08-26 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-08-26.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-08-26 00:00:00.zarr",
+  "date": "2009-08-26"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-08-31 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-08-31.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-08-31 00:00:00.zarr",
+  "date": "2009-08-31"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-09-05 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-09-05.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-09-05 00:00:00.zarr",
+  "date": "2009-09-05"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-09-10 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-09-10.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-09-10 00:00:00.zarr",
+  "date": "2009-09-10"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-09-15 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-09-15.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-09-15 00:00:00.zarr",
+  "date": "2009-09-15"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-09-20 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-09-20.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-09-20 00:00:00.zarr",
+  "date": "2009-09-20"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-09-25 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-09-25.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-09-25 00:00:00.zarr",
+  "date": "2009-09-25"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-09-30 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-09-30.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-09-30 00:00:00.zarr",
+  "date": "2009-09-30"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-10-05 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-10-05.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-10-05 00:00:00.zarr",
+  "date": "2009-10-05"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-10-10 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-10-10.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-10-10 00:00:00.zarr",
+  "date": "2009-10-10"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-10-15 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-10-15.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-10-15 00:00:00.zarr",
+  "date": "2009-10-15"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-10-20 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-10-20.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-10-20 00:00:00.zarr",
+  "date": "2009-10-20"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-10-25 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-10-25.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-10-25 00:00:00.zarr",
+  "date": "2009-10-25"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-10-30 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-10-30.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-10-30 00:00:00.zarr",
+  "date": "2009-10-30"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-11-04 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-11-04.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-11-04 00:00:00.zarr",
+  "date": "2009-11-04"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-11-09 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-11-09.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-11-09 00:00:00.zarr",
+  "date": "2009-11-09"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-11-14 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-11-14.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-11-14 00:00:00.zarr",
+  "date": "2009-11-14"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-11-19 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-11-19.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-11-19 00:00:00.zarr",
+  "date": "2009-11-19"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-11-24 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-11-24.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-11-24 00:00:00.zarr",
+  "date": "2009-11-24"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-11-29 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-11-29.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-11-29 00:00:00.zarr",
+  "date": "2009-11-29"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-12-04 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-12-04.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-12-04 00:00:00.zarr",
+  "date": "2009-12-04"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-12-09 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-12-09.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-12-09 00:00:00.zarr",
+  "date": "2009-12-09"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-12-14 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-12-14.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-12-14 00:00:00.zarr",
+  "date": "2009-12-14"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-12-19 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-12-19.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-12-19 00:00:00.zarr",
+  "date": "2009-12-19"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-12-24 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-12-24.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-12-24 00:00:00.zarr",
+  "date": "2009-12-24"
+ },
+ {
+  "src": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/Parcels_run_67891_2009-12-29 00:00:00.zarr",
+  "dst": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_67891/repeated_2009-12-29.zarr",
+  "kept": "/work/bk1450/b383184/Amazon/Mercator/data/tracks_78876/Parcels_run_78876_2009-12-29 00:00:00.zarr",
+  "date": "2009-12-29"
+ }
+]

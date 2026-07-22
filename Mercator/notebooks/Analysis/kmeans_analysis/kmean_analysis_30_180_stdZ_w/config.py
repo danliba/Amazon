@@ -1,6 +1,6 @@
 """Central configuration for the Amazon plume k-means trajectory clustering pipeline.
 
-This is the **50 / 100 / 150-day, z-standardized** variant.  Instead of embedding
+This is the **30/ 50 / 100 / 150-day, z-standardized** variant.  Instead of embedding
 positions on the unit sphere (the xyz / haversine trick used by the sibling
 projects), each raw feature (lat_50, lon_50, lat_100, lon_100, lat_150, lon_150)
 is standardized to mean 0, std 1 BEFORE k-means.  Standardization gives every day
@@ -103,7 +103,7 @@ FEATURE_SPACE = "zscore"
 # }
 
 # DAY_WEIGHTS = {30: 1.0, 50: 2.0, 100: 1.0, 150: 1.0, 180: 2.0}
-DAY_WEIGHTS = {30: 0.5, 50: 2.0, 100: 1.5, 150: 1.0, 180: 2.0}
+DAY_WEIGHTS = {30: 0.5, 50: 1.5, 100: 1.0, 150: 1.5, 180: 2.0}
 # Reference latitude for the (legacy) longitude cosine correction; only used when
 # FEATURE_SPACE == "cosine".  Set MEAN_LAT = None to disable the correction.
 MEAN_LAT = 5.0
@@ -143,8 +143,8 @@ TRANSIT_TARGETS = {
 # would be meaningless here.  Start empty; re-inspect notebook 02's dendrogram in
 # THIS project and build the map before trusting merged groups.
 # GROUP_MAP = {}
-GROUP_MAP = {0: 5, 1: 0, 2: 5, 3: 1, 4: 1, 5: 1, 6: 6, 7: 0, 8: 4, 9: 3, 10: 2, 11: 1, 12: 0, 13: 0, 14: 4, 15: 0, 16: 3, 17: 2, 18: 2, 19: 1, 20: 5, 21: 0, 22: 2, 23: 1, 24: 1, 25: 5, 26: 4, 27: 3, 28: 0, 29: 3, 30: 1, 31: 3, 32: 5, 33: 4, 34: 2, 35: 5, 36: 0, 37: 0, 38: 1, 39: 1, 40: 6, 41: 2, 42: 5, 43: 0, 44: 5, 45: 0, 46: 0, 47: 2, 48: 0, 49: 1}
+GROUP_MAP = {0: 6, 1: 9, 2: 3, 3: 5, 4: 4, 5: 10, 6: 1, 7: 8, 8: 5, 9: 4, 10: 6, 11: 0, 12: 3, 13: 1, 14: 6, 15: 6, 16: 10, 17: 12, 18: 4, 19: 4, 20: 1, 21: 4, 22: 2, 23: 13, 24: 12, 25: 12, 26: 1, 27: 5, 28: 1, 29: 4, 30: 1, 31: 5, 32: 11, 33: 5, 34: 7, 35: 4, 36: 13, 37: 7, 38: 9, 39: 9, 40: 5, 41: 10, 42: 1, 43: 11, 44: 4, 45: 11, 46: 3, 47: 8, 48: 1, 49: 0, 50: 4, 51: 1, 52: 4, 53: 4, 54: 2, 55: 10, 56: 6, 57: 1, 58: 11, 59: 7, 60: 10, 61: 4, 62: 13, 63: 13, 64: 4, 65: 12, 66: 5, 67: 1, 68: 1, 69: 3}
 
 # Human-readable names for the groups (group id -> label). Optional.
 # GROUP_NAMES = {}
-GROUP_NAMES = {0: 'A', 1: 'B1', 2: 'B2', 3: 'C', 4: 'D', 5: 'E', 6: 'F', 7: 'G'}
+GROUP_NAMES = {0: 'A1', 1: 'A2', 2: 'A3', 3: 'B1', 4: 'B2', 5: 'BS', 6: 'C', 7: 'CB', 8: 'E0', 9: 'E1', 10: 'E2', 11: 'F', 12: 'S', 13: 'S1'}
