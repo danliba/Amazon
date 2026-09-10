@@ -13,3 +13,25 @@
 *.tgz
 *.parquet
 *.pkl
+
+# Data / model output (too large for git)
+*.zarr
+*.nc4
+*.grib
+*.npy
+*.npz
+
+# Figures
+*.png
+*.pdf
+*.jpg
+*.jpeg
+*.svg
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
