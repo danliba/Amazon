@@ -35,3 +35,10 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# Oversized files that exceed GitHub's 100 MB limit (kept on disk, never committed)
+Mercator/data/UVW
+Mercator/notebooks/seminar/Mesoescale.pdf
+Mercator/notebooks/seminar/Mesoescale_2.pdf
+Mercator/notebooks/seminar/Mesoescale_3.pdf
+Mercator/notebooks/seminar/Mesoescale_45678.pdf
