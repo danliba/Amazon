@@ -35,6 +35,3 @@ __pycache__/
 
 # OS
 .DS_Store
-
-# Separately versioned repo (github.com/geobujardsdm/notebooks_dispersal_geo)
-ARP_dataset/notebooks_dispersal_geo/
