@@ -1,0 +1,119 @@
+{
+  "product": "GLORYS12V1 / PSY4V3R1",
+  "grid": "native ORCA1/12 curvilinear, no regridding",
+  "year": 1993,
+  "period": [
+    "1993-01-01",
+    "1993-12-31"
+  ],
+  "n_days": 365,
+  "ssh_output_type": "daily mean (interval_operation=86400 s, timestamps centred 12:00)",
+  "box": {
+    "lat0": -5,
+    "lat1": 12,
+    "lon0": -58,
+    "lon1": -38
+  },
+  "core": {
+    "lat0": 0,
+    "lat1": 8,
+    "lon0": -55,
+    "lon1": -45
+  },
+  "n_points": {
+    "shelf": 150,
+    "slope": 80,
+    "deep": 150
+  },
+  "tau_reliability_limit_days": 52,
+  "tau_min": 23,
+  "tau_max": 46,
+  "tau_chosen": 20,
+  "diagnostic1": {
+    "shelf": {
+      "rms_w0": 1.2980521769550173e-07,
+      "max_w0": 1.8110137445197887e-06,
+      "T90": 16.141040765869544,
+      "T95": 25.514728787010217
+    },
+    "slope": {
+      "rms_w0": 8.495154181544298e-08,
+      "max_w0": 4.1315114306288884e-07,
+      "T90": 36.211802370538734,
+      "T95": 46.71488472387171
+    },
+    "deep": {
+      "rms_w0": 8.268655799105879e-08,
+      "max_w0": 4.855981875243304e-07,
+      "T90": 47.18505629849478,
+      "T95": 61.94677859487677
+    }
+  },
+  "diagnostic2": {
+    "shelf": {
+      "tau_min": 20,
+      "tau_max": 52,
+      "a_min": -0.39283938106257804,
+      "a_at_taumin": 0.14129026175858692,
+      "slope_1_10": 0.3160453732613198
+    },
+    "slope": {
+      "tau_min": 23,
+      "tau_max": 52,
+      "a_min": -0.1570647801913021,
+      "a_at_taumin": 0.12107145436144925,
+      "slope_1_10": 0.5599301150222245
+    },
+    "deep": {
+      "tau_min": 22,
+      "tau_max": 46,
+      "a_min": -0.164547453343374,
+      "a_at_taumin": 0.14749350866546107,
+      "slope_1_10": 0.6883380680092998
+    }
+  },
+  "diagnostic3": {
+    "shelf": {
+      "T_u": 13.852984136609507,
+      "T_v": 15.27521519508481,
+      "T_signal": 14.56409966584716,
+      "frac_resolved": 0.9933333333333333,
+      "mean_speed": 0.5199244618415833
+    },
+    "slope": {
+      "T_u": 11.281958560502996,
+      "T_v": 10.6785994409829,
+      "T_signal": 10.980279000742948,
+      "frac_resolved": 1.0,
+      "mean_speed": 0.7472913265228271
+    },
+    "deep": {
+      "T_u": 17.97249193522372,
+      "T_v": 11.103486805953672,
+      "T_signal": 14.537989370588695,
+      "frac_resolved": 1.0,
+      "mean_speed": 0.391238808631897
+    }
+  },
+  "D_deseason_at_tau": {
+    "shelf": {
+      "5": 0.02817,
+      "10": 0.03439,
+      "20": 0.04087,
+      "40": 0.04022
+    },
+    "slope": {
+      "5": 0.0247,
+      "10": 0.0362,
+      "20": 0.04801,
+      "40": 0.0477
+    },
+    "deep": {
+      "5": 0.02698,
+      "10": 0.04337,
+      "20": 0.05985,
+      "40": 0.05863
+    }
+  },
+  "caveat_1yr": "seasonal cycle removed by harmonic fit, not day-of-year climatology; lags > 52 d unreliable; low-f spectral resolution coarse"
+}

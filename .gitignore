@@ -42,3 +42,9 @@ Mercator/notebooks/seminar/Mesoescale.pdf
 Mercator/notebooks/seminar/Mesoescale_2.pdf
 Mercator/notebooks/seminar/Mesoescale_3.pdf
 Mercator/notebooks/seminar/Mesoescale_45678.pdf
+
+# run_2 papermill outputs and animations (too large for GitHub)
+Mercator/notebooks/run_2/executed/
+*.mp4
+*.gif
+*.mov
